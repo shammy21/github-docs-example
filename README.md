@@ -60,7 +60,31 @@ Traceback (most recent last call):
 RuntimeError: This is a custom error message
 ```
 
->Here is an example of using a codeblock for an error that appears in bash.
+>  Here is an example of using a codeblock for an error that appears in bash.
+
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure it is not a photo from your phone.
+
+>  There are certain cases where it is ok to take photos with your phone, this is when you are showing something like a keyboard that does not show on a computer screen. If it is rendered on your computer screen you should take a screen shot
+
+##  Step 1 - How to take screenshots
+
+To take screenshots on both MacOS and Windows, you can use hotkeys or keyboard shortcuts. Here are the common hotkeys for taking screenshots on both operating systems:
+
+**On MacOS:**
+1. **Capture the entire screen:** Press `Command (⌘) + Shift + 3`. The screenshot will be saved to your desktop by default.
+2. **Capture a selected portion of the screen:** Press `Command (⌘) + Shift + 4`, and then drag to select the area you want to capture. Release the mouse button to take the screenshot.
+3. **Capture a specific window:** Press `Command (⌘) + Shift + 4`, followed by the `Spacebar`. Click on the window you want to capture.
+
+You can also use various combinations with the Control key (`Ctrl`) or other modifier keys to copy the screenshot to the clipboard or change the destination.
+
+**On Windows:**
+1. **Capture the entire screen:** Press `PrtScn` (Print Screen) key to capture the entire screen. The screenshot is copied to the clipboard, and you can paste it into an image editor (e.g., Paint) to save it.
+2. **Capture the active window:** Press `Alt + PrtScn` to capture only the active window. The screenshot is copied to the clipboard.
+3. **Capture a specific portion of the screen (Windows 10 and later):** Press `Shift + Windows key + S` to open the Snip & Sketch tool, which allows you to select a portion of the screen and save it to your clipboard or annotate it.
+4. **Capture the entire screen and save it as a file (Windows 10 and later):** Press `Windows key + Shift + S` to capture the entire screen, open the Snip & Sketch tool, and select the area you want to capture. The screenshot is copied to your clipboard, and you can paste it into the Snip & Sketch app to save it.
+
+Please note that the specific key combinations or tools may vary depending on your Windows version, as Microsoft has introduced new screenshot features in recent updates. The options mentioned here should work for Windows 10 and later.
 
 ##  Step 3 Use Github Flavored Makrdown Task List
 
