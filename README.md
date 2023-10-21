@@ -49,7 +49,7 @@ end
 -  Make note of where the backtick button is located. It should appear above the tab key
 -  But it may vary based on your keyboard layout
 
-<img width="200" src="https://github.com/shammy21/github-docs-example/assets/28939511/c0866d0c-e17a-4608-b9b0-9c703a696b3e" />
+<img width="200" src="assets/backtick.jpg" />
 
 Good Cloud Engineers use codeblocks for Code and Errors that appear in the console.
 
@@ -94,6 +94,13 @@ You can use the following markdown format to create tables:
 ```
 
 Github extends the functionality of Markdown Tables to provide more aligment and table cell formatting options. [<sup>[5]</sup>](#external-references)
+
+
+-  Make note of where the pipe character is located. It should appear above the return key
+-  But it may vary based on your keyboard layout
+
+<img width="200" src="assets/pipe_pic.jpg" />
+
 
 
 
