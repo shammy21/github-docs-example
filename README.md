@@ -125,7 +125,7 @@ Github extends the functionality of Markdown Tables to provide more aligment and
 
 <img width="200" src="assets/pipe_pic.jpg" />
 
-
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 
 ##  External References
